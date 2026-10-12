@@ -62,7 +62,7 @@
 - **适合场景**:薅空投、ChatGPT访问、TikTok、数据采集
 - **口碑**:G2 评分表现不错,免费机房IP可先试用
 
-![Webshare美国住宅IP测试图](https://www.sger.net/webshare.webp)
+![Webshare美国住宅IP测试图](webshare-ipinfo.webp)
 
 *Webshare 美国住宅IP 实测截图*
 
@@ -92,10 +92,6 @@
 - **适合场景**:企业级数据采集、薅空投、TikTok
 - **口碑**:G2 评分表现不错,支持30天全额退款
 
-![IPBurger动态住宅IP测试图](https://www.sger.net/IPBurger.webp)
-
-*IPBurger 动态住宅IP 实测截图*
-
 **动态住宅IP**
 
 | 月价格 | 流量 | 单G价格 |
@@ -119,7 +115,7 @@
 - **适合场景**:薅空投、问卷、ChatGPT、TikTok
 - **口碑**:G2 评分表现不错,无限流量、无限连接数
 
-![PrivateProxy动态住宅IP测试图](https://www.sger.net/PrivateProxy.webp)
+![PrivateProxy动态住宅IP测试图](privateproxy-ipinfo.webp)
 
 *PrivateProxy 动态住宅IP 实测截图*
 
@@ -147,7 +143,7 @@
 - **适合场景**:薅空投、问卷、ChatGPT、TikTok、数据采集
 - **口碑**:G2 评分表现不错,价格最低、中文站国内可直连
 
-![Proxy Seller动态住宅IP测试图](https://www.sger.net/Proxy-Seller-test.webp)
+![Proxy Seller动态住宅IP测试图](proxy-seller-ipinfo.webp)
 
 *Proxy Seller 动态住宅IP 实测截图*
 
@@ -237,7 +233,6 @@ Webshare静态约$0.3/IP(20个起),Proxy Seller $3/IP起可单个购买。便宜
 
 **相关推荐**
 
-- [回国VPN推荐](https://github.com/huiguo-vpn/)
-- [国内怎么看奈飞](https://netflix-tv.org/)
+- [2026静态住宅IP测评](https://www.sger.net/)
 
 *本文仅供信息参考,不构成任何形式的担保。请遵守所在地区的法律法规及相关平台的服务条款。*
